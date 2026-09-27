@@ -1,7 +1,7 @@
 {
   "name": "bizopa",
   "displayName": "Bizopa CRM",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Work your Bizopa CRM from Claude: shape the workspace to fit your business, and log calls, meetings and visits in a sentence — with a reminder for the next step.",
   "author": {
     "name": "Bizopa",
@@ -9,7 +9,15 @@
     "url": "https://bizopa.com"
   },
   "homepage": "https://bizopa.com/claude",
+  "privacyPolicyUrl": "https://bizopa.com/privacy",
   "repository": "https://github.com/Bizopa/claude-plugin",
   "license": "MIT",
-  "keywords": ["crm", "sales", "small business", "customers", "pipeline", "malaysia"]
+  "keywords": [
+    "crm",
+    "sales",
+    "small business",
+    "customers",
+    "pipeline",
+    "malaysia"
+  ]
 }
