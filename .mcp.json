@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bizopa": {
+      "type": "http",
+      "url": "https://bizopa.com/mcp"
+    }
+  }
+}
